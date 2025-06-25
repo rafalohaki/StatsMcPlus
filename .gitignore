@@ -216,3 +216,5 @@ kls_database.db
 metaminer/bin/
 metaminer/run
 metaminer/build
+
+target/
